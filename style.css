@@ -29,7 +29,15 @@
 .form select {
 	padding: 10px;
 	border: none;
-	border-bottom: 4px solid #89211a;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	position: relative;
+}
+
+.form select:not(:disabled) {
+	background: url(./calc-drop-arrow.svg) no-repeat 98% 55%;
+	background-size: 10px;
 }
 
 .form-select__wrap {
@@ -38,6 +46,7 @@
 	margin-right: 20px;
 	margin-bottom: 30px;
 	min-width: 30%;
+	border-bottom: 4px solid #89211a;
 }
 
 .form-select__wrap small {
@@ -63,8 +72,8 @@
 }
 
 .output-calc div {
-	min-width: 30%;
 	margin-bottom: 15px;
+	min-width: 30%;
 }
 
 .total-price {
@@ -73,4 +82,19 @@
 	margin-top: 30px;
 	font-size: 24px;
 	line-height: 32px;
+}
+
+@media (max-width: 672px) {
+	.form-select__wrap {
+		width: 100%;
+	}
+
+	.output-calc {
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.output-calc div {
+		width: 100%;
+	}
 }
