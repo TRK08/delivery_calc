@@ -49,6 +49,12 @@
 	margin-right: 0;
 }
 
+.form select:disabled {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
 .output-calc {
 	display: flex;
 	flex-wrap: wrap;

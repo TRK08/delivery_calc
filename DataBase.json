@@ -5,8 +5,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 1037,
-        "Houston": 630,
-        "Los Angeles": 0
+        "Houston": 630
       }
     },
     "Alaska": {
@@ -14,9 +13,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 4332,
-        "Houston": 3063,
-        "Los Angeles": 0,
-        "Los Angeles": 0
+        "Houston": 3063
       }
     },
     "Arizona": {
@@ -24,8 +21,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2050,
-        "Houston": 965,
-        "Los Angeles": 0
+        "Houston": 965
       }
     },
     
@@ -34,8 +30,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 1009,
-        "Houston": 428,
-        "Los Angeles": 0
+        "Houston": 428
       }
     },
     "California": {
@@ -43,8 +38,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2421,
-        "Houston": 1467,
-        "Los Angeles": 0
+        "Houston": 1467
       }
     },
     "Colorado": {
@@ -52,8 +46,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 1657,
-        "Houston": 897,
-        "Los Angeles": 0
+        "Houston": 897
       }
     },
     "Connecticut": {
@@ -61,8 +54,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 127,
-        "Houston": 1487,
-        "Los Angeles": 0
+        "Houston": 1487
       }
     },
     "Delaware": {
@@ -70,8 +62,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 99,
-        "Houston": 1292,
-        "Los Angeles": 0
+        "Houston": 1292
       }
     },
     "Florida": {
@@ -79,8 +70,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 948,
-        "Houston": 851,
-        "Los Angeles": 0
+        "Houston": 851
       }
     },
     "Georgia": {
@@ -88,8 +78,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 722,
-        "Houston": 756,
-        "Los Angeles": 0
+        "Houston": 756
       }
     },
     "Idaho": {
@@ -97,8 +86,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2067,
-        "Houston": 1540,
-        "Los Angeles": 0
+        "Houston": 1540
       }
     },
     "Illinois": {
@@ -106,8 +94,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 790,
-        "Houston": 823,
-        "Los Angeles": 0
+        "Houston": 823
       }
     },
     "Indiana": {
@@ -115,8 +102,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 619,
-        "Houston": 893,
-        "Los Angeles": 0
+        "Houston": 893
       }
     },
     "Iowa": {
@@ -124,8 +110,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 981,
-        "Houston": 846,
-        "Los Angeles": 0
+        "Houston": 846
       }
     },
     "Kansas": {
@@ -133,8 +118,7 @@
       "coast": "Центр",
       "sendFromDistance": {
         "New York": 1281,
-        "Houston": 663,
-        "Los Angeles": 0
+        "Houston": 663
       }
     },
     "Kentucky": {
@@ -142,8 +126,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 681,
-        "Houston": 1012,
-        "Los Angeles": 0
+        "Houston": 1012
       }
     },
     "Louisiana": {
@@ -151,8 +134,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 1166,
-        "Houston": 219,
-        "Los Angeles": 0
+        "Houston": 219
       }
     },
     "Maine": {
@@ -160,8 +142,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 4332,
-        "Houston": 3063,
-        "Los Angeles": 0
+        "Houston": 3063
       }
     },
     "Maryland": {
@@ -169,8 +150,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 138,
-        "Houston": 1241,
-        "Los Angeles": 0
+        "Houston": 1241
       }
     },
     "Massachusetts": {
@@ -178,8 +158,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 271,
-        "Houston": 1835,
-        "Los Angeles": 0
+        "Houston": 1835
       }
     },
     "Michigan": {
@@ -187,8 +166,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 644,
-        "Houston": 1138,
-        "Los Angeles": 0
+        "Houston": 1138
       }
     },
     "Minnesota": {
@@ -196,8 +174,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 113,
-        "Houston": 1173,
-        "Los Angeles": 0
+        "Houston": 1173
       }
     },
     "Mississippi": {
@@ -205,8 +182,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 989,
-        "Houston": 396,
-        "Los Angeles": 0
+        "Houston": 396
       }
     },
     "Missouri": {
@@ -214,8 +190,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 945,
-        "Houston": 601,
-        "Los Angeles": 0
+        "Houston": 601
       }
     },
     "Montana": {
@@ -223,8 +198,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 1846,
-        "Houston": 1430,
-        "Los Angeles": 0
+        "Houston": 1430
       }
     },
     "Nebraska": {
@@ -232,8 +206,7 @@
       "coast": "Центр",
       "sendFromDistance": {
         "New York": 1333,
-        "Houston": 849,
-        "Los Angeles": 0
+        "Houston": 849
       }
     },
     "Nevada": {
@@ -241,8 +214,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2223,
-        "Houston": 1350,
-        "Los Angeles": 0
+        "Houston": 1350
       }
     },
     "New Hampshire": {
@@ -250,8 +222,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 262,
-        "Houston": 1606,
-        "Los Angeles": 0
+        "Houston": 1606
       }
     },
     "New Jersey": {
@@ -259,8 +230,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 50,
-        "Houston": 1379,
-        "Los Angeles": 0
+        "Houston": 1379
       }
     },
     "New Mexico": {
@@ -268,8 +238,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 1762,
-        "Houston": 697,
-        "Los Angeles": 0
+        "Houston": 697
       }
     },
     "New York": {
@@ -277,8 +246,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 50,
-        "Houston": 1417,
-        "Los Angeles": 0
+        "Houston": 1417
       }
     },
     "North Carolina": {
@@ -286,8 +254,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 389,
-        "Houston": 1035,
-        "Los Angeles": 0
+        "Houston": 1035
       }
     },
     "North Dakota": {
@@ -295,8 +262,7 @@
       "coast": "Центр",
       "sendFromDistance": {
         "New York": 1415,
-        "Houston": 1265,
-        "Los Angeles": 0
+        "Houston": 1265
       }
     },
     "Ohio": {
@@ -304,8 +270,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 449,
-        "Houston": 1017,
-        "Los Angeles": 0
+        "Houston": 1017
       }
     },
     "Oklahoma": {
@@ -313,8 +278,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 1287,
-        "Houston": 376,
-        "Los Angeles": 0
+        "Houston": 376
       }
     },
     "Oregon": {
@@ -322,8 +286,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2356,
-        "Houston": 1687,
-        "Los Angeles": 0
+        "Houston": 1687
       }
     },
     "Pennsylvania": {
@@ -331,8 +294,7 @@
       "coast": " Восток",
       "sendFromDistance": {
         "New York": 235,
-        "Houston": 1550,
-        "Los Angeles": 0
+        "Houston": 1550
       }
     },
     "Rhode Island": {
@@ -340,8 +302,7 @@
       "coast": " Восток",
       "sendFromDistance": {
         "New York": 186,
-        "Houston": 1562,
-        "Los Angeles": 0
+        "Houston": 1562
       }
     },
     "South Carolina": {
@@ -349,8 +310,7 @@
       "coast": " Восток",
       "sendFromDistance": {
         "New York": 569,
-        "Houston": 879,
-        "Los Angeles": 0
+        "Houston": 879
       }
     },
     "South Dakota": {
@@ -358,8 +318,7 @@
       "coast": "Центр",
       "sendFromDistance": {
         "New York": 1331,
-        "Houston": 1125,
-        "Los Angeles": 0
+        "Houston": 1125
       }
     },
     "Tennessee": {
@@ -367,8 +326,7 @@
       "coast": " Восток",
       "sendFromDistance": {
         "New York": 734,
-        "Houston": 647,
-        "Los Angeles": 0
+        "Houston": 647
       }
     },
     "Texas": {
@@ -376,8 +334,7 @@
       "coast": " Восток",
       "sendFromDistance": {
         "New York": 1524,
-        "Houston": 309,
-        "Los Angeles": 0
+        "Houston": 309
       }
     },
     "Utah": {
@@ -385,8 +342,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 1937,
-        "Houston": 1110,
-        "Los Angeles": 0
+        "Houston": 1110
       }
     },
     "Vermont": {
@@ -394,8 +350,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 324,
-        "Houston": 1609,
-        "Los Angeles": 0
+        "Houston": 1609
       }
     },
     "Virginia": {
@@ -403,8 +358,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 373,
-        "Houston": 1261,
-        "Los Angeles": 0
+        "Houston": 1261
       }
     },
     "Washington": {
@@ -412,8 +366,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 2873,
-        "Houston": 2316,
-        "Los Angeles": 0
+        "Houston": 2316
       }
     },
     "West Virginia": {
@@ -421,8 +374,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 339,
-        "Houston": 1046,
-        "Los Angeles": 0
+        "Houston": 1046
       }
     },
     "Wisconsin": {
@@ -430,8 +382,7 @@
       "coast": "Восток",
       "sendFromDistance": {
         "New York": 782,
-        "Houston": 1034,
-        "Los Angeles": 0
+        "Houston": 1034
       }
     },
     "Wyoming": {
@@ -439,8 +390,7 @@
       "coast": "Запад",
       "sendFromDistance": {
         "New York": 1941,
-        "Houston": 1340,
-        "Los Angeles": 0
+        "Houston": 1340
       }
     }
   },

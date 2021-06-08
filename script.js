@@ -40,7 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	async function getRes() {
 		let response = await fetch(
-			'https://raw.githubusercontent.com/TRK08/delivery_calc/main/DataBase.json'
+			// 'https://raw.githubusercontent.com/TRK08/delivery_calc/main/DataBase.json'
+			'./DataBase.json'
 		)
 		let data = await response.json()
 		return data
@@ -118,8 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 			let currentFromState = null, // выбранный штат отправки
 				currentExportPort = null, // выбранный порт отправки
-				currentImportPort = null, // выбранный порт прибытия
-				currentCity = null // выбранный город доставки
+				currentImportPort = null // выбранный порт прибытия
 
 			form.addEventListener('change', (e) => {
 				if (e.target.classList.contains('from-state')) {
@@ -159,9 +159,6 @@ document.addEventListener('DOMContentLoaded', () => {
 					deliveryPrice = Math.round(calculatePriceExport(minDistance))
 					totalPrice[0] = deliveryPrice
 
-					exportPortBox.disabled = false
-					importPortBox.disabled = false
-					importPortContainerBox.disabled = false
 					toCityBox.disabled = false
 					convertPriceBox.disabled = false
 				}
