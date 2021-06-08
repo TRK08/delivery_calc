@@ -40,8 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	async function getRes() {
 		let response = await fetch(
-			// 'https://raw.githubusercontent.com/TRK08/delivery_calc/main/DataBase.json'
-			'./DataBase.json'
+			'https://raw.githubusercontent.com/TRK08/delivery_calc/main/DataBase.json'
 		)
 		let data = await response.json()
 		return data
