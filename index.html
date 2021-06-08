@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Document</title>
+	</head>
+	<body>
+		<div class="calculator">
+			<div class="calculator__wrap">
+				<h2 class="calculator-title">Calculator</h2>
+				<form action="" class="form">
+					<div class="form-select__wrap">
+						<small>Штат отгрузки</small>
+						<select class="from-state" name="from-state" id="test">
+							<option value="" disabled selected>Выберите штат</option>
+						</select>
+					</div>
+					<div class="form-select__wrap">
+						<small>Порт отправки</small>
+						<select class="export-port" name="export-port" disabled>
+							<option value="" disabled selected></option>
+						</select>
+					</div>
+					<div class="form-select__wrap">
+						<small>Порт назначения</small>
+						<select class="import-port" name="send-city" disabled>
+							<option value="" disabled selected></option>
+						</select>
+					</div>
+					<div class="form-select__wrap">
+						<small>Объем контейнера</small>
+						<select
+							class="import-port-container"
+							name="import-port-container"
+							disabled
+						>
+							<option value="20ft" selected>20 футов</option>
+							<option value="40ft">40 футов</option>
+						</select>
+					</div>
+					<div class="form-select__wrap">
+						<small>Город в Европе</small>
+						<select class="to-city" name="to-city" disabled></select>
+					</div>
+					<div class="form-select__wrap">
+						<small>Выбор валюты</small>
+						<select class="convert-price" disabled></select>
+					</div>
+				</form>
+
+				<div class="output-calc">
+					<div class="send-usa"></div>
+					<div class="export-port-consumption"></div>
+					<div class="export-consumption"></div>
+					<div class="sea-fracht"></div>
+					<div class="import-port-consumption"></div>
+					<div class="transit-clearence"></div>
+					<div class="send-to-svh"></div>
+					<div class="total-price"></div>
+				</div>
+			</div>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>

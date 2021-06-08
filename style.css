@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.calculator__wrap {
+	padding: 0 15px;
+}
+
+.calculator-title {
+	text-align: center;
+	font-size: 36px;
+	line-height: 42px;
+	margin-bottom: 30px;
+}
+
+.form {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.form select:focus {
+	outline: none;
+}
+
+.form select {
+	padding: 10px;
+	border: none;
+	border-bottom: 4px solid #89211a;
+}
+
+.form-select__wrap {
+	display: flex;
+	flex-direction: column;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	min-width: 30%;
+}
+
+.form-select__wrap small {
+	text-align: center;
+}
+
+.form select:nth-child(3),
+.form select:nth-child(6) {
+	margin-right: 0;
+}
+
+.output-calc {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.output-calc div {
+	min-width: 30%;
+	margin-bottom: 15px;
+}
+
+.total-price {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 24px;
+	line-height: 32px;
+}

@@ -1,0 +1,1061 @@
+{
+  "states": {
+    "Alabama": {
+      "code": "AL",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 1037,
+        "Houston": 630,
+        "Los Angeles": 0
+      }
+    },
+    "Alaska": {
+      "code": "AK",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 4332,
+        "Houston": 3063,
+        "Los Angeles": 0,
+        "Los Angeles": 0
+      }
+    },
+    "Arizona": {
+      "code": "AZ",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2050,
+        "Houston": 965,
+        "Los Angeles": 0
+      }
+    },
+    
+    "Arkansas": {
+      "code": "AR",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 1009,
+        "Houston": 428,
+        "Los Angeles": 0
+      }
+    },
+    "California": {
+      "code": "CA",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2421,
+        "Houston": 1467,
+        "Los Angeles": 0
+      }
+    },
+    "Colorado": {
+      "code": "CO",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 1657,
+        "Houston": 897,
+        "Los Angeles": 0
+      }
+    },
+    "Connecticut": {
+      "code": "CT",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 127,
+        "Houston": 1487,
+        "Los Angeles": 0
+      }
+    },
+    "Delaware": {
+      "code": "DE",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 99,
+        "Houston": 1292,
+        "Los Angeles": 0
+      }
+    },
+    "Florida": {
+      "code": "FL",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 948,
+        "Houston": 851,
+        "Los Angeles": 0
+      }
+    },
+    "Georgia": {
+      "code": "GA",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 722,
+        "Houston": 756,
+        "Los Angeles": 0
+      }
+    },
+    "Idaho": {
+      "code": "ID",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2067,
+        "Houston": 1540,
+        "Los Angeles": 0
+      }
+    },
+    "Illinois": {
+      "code": "IL",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 790,
+        "Houston": 823,
+        "Los Angeles": 0
+      }
+    },
+    "Indiana": {
+      "code": "IN",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 619,
+        "Houston": 893,
+        "Los Angeles": 0
+      }
+    },
+    "Iowa": {
+      "code": "IA",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 981,
+        "Houston": 846,
+        "Los Angeles": 0
+      }
+    },
+    "Kansas": {
+      "code": "KS",
+      "coast": "Центр",
+      "sendFromDistance": {
+        "New York": 1281,
+        "Houston": 663,
+        "Los Angeles": 0
+      }
+    },
+    "Kentucky": {
+      "code": "KY",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 681,
+        "Houston": 1012,
+        "Los Angeles": 0
+      }
+    },
+    "Louisiana": {
+      "code": "LA",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 1166,
+        "Houston": 219,
+        "Los Angeles": 0
+      }
+    },
+    "Maine": {
+      "code": "ME",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 4332,
+        "Houston": 3063,
+        "Los Angeles": 0
+      }
+    },
+    "Maryland": {
+      "code": "MD",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 138,
+        "Houston": 1241,
+        "Los Angeles": 0
+      }
+    },
+    "Massachusetts": {
+      "code": "MA",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 271,
+        "Houston": 1835,
+        "Los Angeles": 0
+      }
+    },
+    "Michigan": {
+      "code": "MI",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 644,
+        "Houston": 1138,
+        "Los Angeles": 0
+      }
+    },
+    "Minnesota": {
+      "code": "MN",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 113,
+        "Houston": 1173,
+        "Los Angeles": 0
+      }
+    },
+    "Mississippi": {
+      "code": "MS",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 989,
+        "Houston": 396,
+        "Los Angeles": 0
+      }
+    },
+    "Missouri": {
+      "code": "MO",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 945,
+        "Houston": 601,
+        "Los Angeles": 0
+      }
+    },
+    "Montana": {
+      "code": "MT",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 1846,
+        "Houston": 1430,
+        "Los Angeles": 0
+      }
+    },
+    "Nebraska": {
+      "code": "NE",
+      "coast": "Центр",
+      "sendFromDistance": {
+        "New York": 1333,
+        "Houston": 849,
+        "Los Angeles": 0
+      }
+    },
+    "Nevada": {
+      "code": "NV",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2223,
+        "Houston": 1350,
+        "Los Angeles": 0
+      }
+    },
+    "New Hampshire": {
+      "code": "NH",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 262,
+        "Houston": 1606,
+        "Los Angeles": 0
+      }
+    },
+    "New Jersey": {
+      "code": "NJ",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 50,
+        "Houston": 1379,
+        "Los Angeles": 0
+      }
+    },
+    "New Mexico": {
+      "code": "NM",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 1762,
+        "Houston": 697,
+        "Los Angeles": 0
+      }
+    },
+    "New York": {
+      "code": "NY",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 50,
+        "Houston": 1417,
+        "Los Angeles": 0
+      }
+    },
+    "North Carolina": {
+      "code": "NC",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 389,
+        "Houston": 1035,
+        "Los Angeles": 0
+      }
+    },
+    "North Dakota": {
+      "code": "ND",
+      "coast": "Центр",
+      "sendFromDistance": {
+        "New York": 1415,
+        "Houston": 1265,
+        "Los Angeles": 0
+      }
+    },
+    "Ohio": {
+      "code": "OH",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 449,
+        "Houston": 1017,
+        "Los Angeles": 0
+      }
+    },
+    "Oklahoma": {
+      "code": "OK",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 1287,
+        "Houston": 376,
+        "Los Angeles": 0
+      }
+    },
+    "Oregon": {
+      "code": "OR",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2356,
+        "Houston": 1687,
+        "Los Angeles": 0
+      }
+    },
+    "Pennsylvania": {
+      "code": "PA",
+      "coast": " Восток",
+      "sendFromDistance": {
+        "New York": 235,
+        "Houston": 1550,
+        "Los Angeles": 0
+      }
+    },
+    "Rhode Island": {
+      "code": "RI",
+      "coast": " Восток",
+      "sendFromDistance": {
+        "New York": 186,
+        "Houston": 1562,
+        "Los Angeles": 0
+      }
+    },
+    "South Carolina": {
+      "code": "SC",
+      "coast": " Восток",
+      "sendFromDistance": {
+        "New York": 569,
+        "Houston": 879,
+        "Los Angeles": 0
+      }
+    },
+    "South Dakota": {
+      "code": "SD",
+      "coast": "Центр",
+      "sendFromDistance": {
+        "New York": 1331,
+        "Houston": 1125,
+        "Los Angeles": 0
+      }
+    },
+    "Tennessee": {
+      "code": "TN",
+      "coast": " Восток",
+      "sendFromDistance": {
+        "New York": 734,
+        "Houston": 647,
+        "Los Angeles": 0
+      }
+    },
+    "Texas": {
+      "code": "TX",
+      "coast": " Восток",
+      "sendFromDistance": {
+        "New York": 1524,
+        "Houston": 309,
+        "Los Angeles": 0
+      }
+    },
+    "Utah": {
+      "code": "UT",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 1937,
+        "Houston": 1110,
+        "Los Angeles": 0
+      }
+    },
+    "Vermont": {
+      "code": "VT",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 324,
+        "Houston": 1609,
+        "Los Angeles": 0
+      }
+    },
+    "Virginia": {
+      "code": "VA",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 373,
+        "Houston": 1261,
+        "Los Angeles": 0
+      }
+    },
+    "Washington": {
+      "code": "WA",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 2873,
+        "Houston": 2316,
+        "Los Angeles": 0
+      }
+    },
+    "West Virginia": {
+      "code": "WV",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 339,
+        "Houston": 1046,
+        "Los Angeles": 0
+      }
+    },
+    "Wisconsin": {
+      "code": "WI",
+      "coast": "Восток",
+      "sendFromDistance": {
+        "New York": 782,
+        "Houston": 1034,
+        "Los Angeles": 0
+      }
+    },
+    "Wyoming": {
+      "code": "WY",
+      "coast": "Запад",
+      "sendFromDistance": {
+        "New York": 1941,
+        "Houston": 1340,
+        "Los Angeles": 0
+      }
+    }
+  },
+  "sendToPort": {
+    "New York": {
+      "Hamburg": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Bremerhaven": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Kotka": {
+        "distance": 803,
+        "options": {
+          "20ft": {
+            "price": [
+              924,
+              1430
+            ]
+          },
+          "40ft": {
+            "price": [
+              1229,
+              1993
+            ]
+          }
+        }
+      },
+      "Klaipeda": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      },
+      "Novorossiysk": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      }
+    },
+    "Houston": {
+      "Hamburg": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Bremerhaven": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Kotka": {
+        "distance": 803,
+        "options": {
+          "20ft": {
+            "price": [
+              924,
+              1430
+            ]
+          },
+          "40ft": {
+            "price": [
+              1229,
+              1993
+            ]
+          }
+        }
+      },
+      "Klaipeda": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      },
+      "Novorossiysk": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      }
+    },
+    "Los Angeles": {
+      "Hamburg": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Bremerhaven": {
+        "distance": 1613,
+        "options": {
+          "20ft": {
+            "price": [
+              552,
+              1356
+            ]
+          },
+          "40ft": {
+            "price": [
+              610,
+              1680
+            ]
+          }
+        }
+      },
+      "Kotka": {
+        "distance": 803,
+        "options": {
+          "20ft": {
+            "price": [
+              924,
+              1430
+            ]
+          },
+          "40ft": {
+            "price": [
+              1229,
+              1993
+            ]
+          }
+        }
+      },
+      "Klaipeda": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      },
+      "Novorossiysk": {
+        "distance": 0,
+        "options": {
+          "20ft": {
+            "price": [
+              642,
+              1401
+            ]
+          },
+          "40ft": {
+            "price": [
+              925,
+              2229
+            ]
+          }
+        }
+      }
+    }
+  },
+  "truckDelivery": {
+    "Bremerhaven": {
+      "Brest": {
+        "distance": 1194
+      },
+      "Minsk": {
+        "distance": 1520
+      },
+      "Saint Petersburg": {
+        "distance": 2164
+      },
+      "Moscow": {
+        "distance": 2227
+      },
+      "Nizhniy Novgorog": {
+        "distance": 2653
+      },
+      "Kazan": {
+        "distance": 3052
+      },
+      "Voronezh": {
+        "distance": 2467
+      },
+      "Perm": {
+        "distance": 3672
+      },
+      "Volgograd": {
+        "distance": 3187
+      },
+      "Rostov-on-Don": {
+        "distance": 2709
+      },
+      "Krasnodar": {
+        "distance": 2860
+      },
+      "Samara": {
+        "distance": 3305
+      },
+      "Ekaterinburg": {
+        "distance": 4028
+      },
+      "Chelyabinsk": {
+        "distance": 4013
+      },
+      "Ufa": {
+        "distance": 3582
+      },
+      "Omsk": {
+        "distance": 4973
+      },
+      "Krasnoyarsk": {
+        "distance": 6400
+      },
+      "Tashkent": {
+        "distance": 5617
+      },
+      "Nursultan": {
+        "distance": 4965
+      },
+      "Almaty": {
+        "distance": 6022
+      },
+      "Bishkek": {
+        "distance": 5843
+      }
+      
+    },
+    "Hamburg": {
+      "Brest": {
+        "distance": 1194
+      },
+      "Minsk": {
+        "distance": 1520
+      },
+      "Saint Petersburg": {
+        "distance": 2164
+      },
+      "Moscow": {
+        "distance": 2227
+      },
+      "Nizhniy Novgorog": {
+        "distance": 2653
+      },
+      "Kazan": {
+        "distance": 3052
+      },
+      "Voronezh": {
+        "distance": 2467
+      },
+      "Perm": {
+        "distance": 3672
+      },
+      "Volgograd": {
+        "distance": 3187
+      },
+      "Rostov-on-Don": {
+        "distance": 2709
+      },
+      "Krasnodar": {
+        "distance": 2860
+      },
+      "Samara": {
+        "distance": 3305
+      },
+      "Ekaterinburg": {
+        "distance": 4028
+      },
+      "Chelyabinsk": {
+        "distance": 4013
+      },
+      "Ufa": {
+        "distance": 3582
+      },
+      "Omsk": {
+        "distance": 4973
+      },
+      "Krasnoyarsk": {
+        "distance": 6400
+      },
+      "Tashkent": {
+        "distance": 5617
+      },
+      "Nursultan": {
+        "distance": 4965
+      },
+      "Almaty": {
+        "distance": 6022
+      },
+      "Bishkek": {
+        "distance": 5843
+      }
+    },
+    "Klaipeda": {
+      "Brest": {
+        "distance": 1194
+      },
+      "Minsk": {
+        "distance": 1520
+      },
+      "Saint Petersburg": {
+        "distance": 2164
+      },
+      "Moscow": {
+        "distance": 1170
+      },
+      "Nizhniy Novgorog": {
+        "distance": 2653
+      },
+      "Kazan": {
+        "distance": 3052
+      },
+      "Voronezh": {
+        "distance": 2467
+      },
+      "Perm": {
+        "distance": 3672
+      },
+      "Volgograd": {
+        "distance": 3187
+      },
+      "Rostov-on-Don": {
+        "distance": 2709
+      },
+      "Krasnodar": {
+        "distance": 2860
+      },
+      "Samara": {
+        "distance": 3305
+      },
+      "Ekaterinburg": {
+        "distance": 4028
+      },
+      "Chelyabinsk": {
+        "distance": 4013
+      },
+      "Ufa": {
+        "distance": 3582
+      },
+      "Omsk": {
+        "distance": 4973
+      },
+      "Krasnoyarsk": {
+        "distance": 6400
+      },
+      "Tashkent": {
+        "distance": 5617
+      },
+      "Nursultan": {
+        "distance": 4965
+      },
+      "Almaty": {
+        "distance": 6022
+      },
+      "Bishkek": {
+        "distance": 5843
+      }
+    },
+    "Kotka": {
+      "Brest": {
+        "distance": 1194
+      },
+      "Minsk": {
+        "distance": 1520
+      },
+      "Saint Petersburg": {
+        "distance": 2164
+      },
+      "Moscow": {
+        "distance": 2227
+      },
+      "Nizhniy Novgorog": {
+        "distance": 2653
+      },
+      "Kazan": {
+        "distance": 3052
+      },
+      "Voronezh": {
+        "distance": 2467
+      },
+      "Perm": {
+        "distance": 3672
+      },
+      "Volgograd": {
+        "distance": 3187
+      },
+      "Rostov-on-Don": {
+        "distance": 2709
+      },
+      "Krasnodar": {
+        "distance": 2860
+      },
+      "Samara": {
+        "distance": 3305
+      },
+      "Ekaterinburg": {
+        "distance": 4028
+      },
+      "Chelyabinsk": {
+        "distance": 4013
+      },
+      "Ufa": {
+        "distance": 3582
+      },
+      "Omsk": {
+        "distance": 4973
+      },
+      "Krasnoyarsk": {
+        "distance": 6400
+      },
+      "Tashkent": {
+        "distance": 5617
+      },
+      "Nursultan": {
+        "distance": 4965
+      },
+      "Almaty": {
+        "distance": 6022
+      },
+      "Bishkek": {
+        "distance": 5843
+      }
+    },
+    "Novorossiysk": {
+      "Brest": {
+        "distance": 1194
+      },
+      "Minsk": {
+        "distance": 1520
+      },
+      "Saint Petersburg": {
+        "distance": 2164
+      },
+      "Moscow": {
+        "distance": 2227
+      },
+      "Nizhniy Novgorog": {
+        "distance": 2653
+      },
+      "Kazan": {
+        "distance": 3052
+      },
+      "Voronezh": {
+        "distance": 2467
+      },
+      "Perm": {
+        "distance": 3672
+      },
+      "Volgograd": {
+        "distance": 3187
+      },
+      "Rostov-on-Don": {
+        "distance": 2709
+      },
+      "Krasnodar": {
+        "distance": 2860
+      },
+      "Samara": {
+        "distance": 3305
+      },
+      "Ekaterinburg": {
+        "distance": 4028
+      },
+      "Chelyabinsk": {
+        "distance": 4013
+      },
+      "Ufa": {
+        "distance": 3582
+      },
+      "Omsk": {
+        "distance": 4973
+      },
+      "Krasnoyarsk": {
+        "distance": 6400
+      },
+      "Tashkent": {
+        "distance": 5617
+      },
+      "Nursultan": {
+        "distance": 4965
+      },
+      "Almaty": {
+        "distance": 6022
+      },
+      "Bishkek": {
+        "distance": 5843
+      }
+    }
+  },
+  "europeCities": [
+    "Brest",
+    "Minsk",
+    "Saint Petersburg",
+    "Moscow",
+    "Nizhniy Novgorog",
+    "Kazan",
+    "Voronezh",
+    "Perm",
+    "Volgograd",
+    "Rostov-on-Don",
+    "Krasnodar",
+    "Samara",
+    "Ekaterinburg",
+    "Chelyabinsk",
+    "Ufa",
+    "Omsk",
+    "Krasnoyarsk",
+    "Tashkent",
+    "Nursultan",
+    "Almaty",
+    "Bishkek"
+  ]
+}
