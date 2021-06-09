@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		totalPrice = [] // общая цена
 
 	async function convertPrice() {
-		let response = await fetch('http://www.floatrates.com/daily/usd.json')
+		let response = await fetch('https://www.floatrates.com/daily/usd.json')
 		let data = await response.json()
 		return data
 	}
@@ -193,10 +193,14 @@ document.addEventListener('DOMContentLoaded', () => {
 				})
 
 				toCityBox.childNodes.forEach((item) => {
+					if (item.textContent === 'Выберите город') {
+						toCityBox.style.color = 'red'
+					}
 					if (item.selected) {
 						let distance = currentImportPort[item.textContent].distance
 						distance = calculateTruckDeliveryPrice(distance)
 						totalPrice[2] = distance
+						toCityBox.style.color = '#000'
 					}
 				})
 
